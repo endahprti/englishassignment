@@ -1,0 +1,30 @@
+header {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #927f57;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+}
+
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  margin: 0;
+  padding: 20px;
+}
+
+h2 {
+  text-align: center;
+  margin-top: 5%;
+  margin-bottom: 10px;
+  color: #6b5d3f;
+}
+
+.profile-container h2 {
+  margin-bottom: 10px;
+  margin-top: 20px;
+}
+
+.profile-container p {
+  text-align: center;
+  margin-top: 1%;
+}
